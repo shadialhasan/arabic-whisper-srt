@@ -1,0 +1,12 @@
+{
+  "description": "Accurate Arabic speech-to-text subtitler powered by faster-whisper with Arabic punctuation restoration",
+  "topics": [
+    "whisper",
+    "faster-whisper",
+    "arabic-speech",
+    "subtitles",
+    "srt-generator",
+    "speech-to-text",
+    "audio-transcription"
+  ]
+}

@@ -1,5 +1,8 @@
 # 🎬 arabic-whisper-srt
 
+> **Topics:** `whisper` `faster-whisper` `arabic-speech` `subtitles` `srt-generator` `speech-to-text` `audio-transcription`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/arabic-whisper-srt/releases/tag/v1.0.0)
 [![CI](https://github.com/MobileConduit/arabic-whisper-srt/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/arabic-whisper-srt/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
