@@ -28,3 +28,10 @@ htmlcov/
 .env.local
 .DS_Store
 Thumbs.db
+
+# Generated subtitles and media test files
+*.srt
+*.vtt
+*.mp3
+*.wav
+*.mp4
