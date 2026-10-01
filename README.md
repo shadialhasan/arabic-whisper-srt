@@ -3,10 +3,10 @@
 > **Topics:** `whisper` `faster-whisper` `arabic-speech` `subtitles` `srt-generator` `speech-to-text` `audio-transcription`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/arabic-whisper-srt/releases/tag/v1.0.0)
-[![CI](https://github.com/MobileConduit/arabic-whisper-srt/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/arabic-whisper-srt/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/arabic-whisper-srt/releases/tag/v1.0.0)
+[![CI](https://github.com/shadialhasan/arabic-whisper-srt/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/arabic-whisper-srt/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Arabic NLP](https://img.shields.io/badge/NLP-Arabic%20Punctuation-green.svg)](https://github.com/MobileConduit)
+[![Arabic NLP](https://img.shields.io/badge/NLP-Arabic%20Punctuation-green.svg)](https://github.com/shadialhasan)
 [![Whisper Engine](https://img.shields.io/badge/Engine-faster--whisper-red.svg)](https://github.com/SYSTRAN/faster-whisper)
 [![Python: 3.9+](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
 
@@ -47,7 +47,7 @@ flowchart TD
 ## 🚀 Installation & Usage
 
 ```bash
-git clone https://github.com/MobileConduit/arabic-whisper-srt.git
+git clone https://github.com/shadialhasan/arabic-whisper-srt.git
 cd arabic-whisper-srt
 pip install -r requirements.txt
 ```
@@ -125,7 +125,7 @@ python -m unittest discover tests -v
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
